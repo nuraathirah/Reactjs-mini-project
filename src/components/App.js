@@ -8,7 +8,7 @@ import AddTodo from "./Addtodo";
 import EditTodo from "./EditTodo";
 
 
-const accessToken = 'e7bf74b4eadacddb1cdcc13a61d1338f30db3b2a';
+const accessToken = 'Your Token';
 const apiUrl = 'https://api.todoist.com/rest/v1';
 
 axios.interceptors.request.use(
